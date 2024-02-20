@@ -1,0 +1,11 @@
+,From,To,Flow,Cost
+0,Birmingham,C2,10000.0,5000.0
+1,Brighton,Birmingham,50000.0,15000.0
+2,Birmingham,C5,5000.0,2500.0
+3,Brighton,London,55000.0,27500.0
+4,London,C5,55000.0,27500.0
+5,Brighton,Exeter,40000.0,8000.0
+6,Birmingham,C4,35000.0,35000.0
+7,Liverpool,C1,50000.0,50000.0
+8,Exeter,C3,40000.0,8000.0
+9,Liverpool,C6,20000.0,20000.0
